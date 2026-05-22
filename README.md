@@ -8,4 +8,5 @@ This growth further develops until we get the formation of rising columns of lig
 - Python, including libraries such as NumPy, SciPy, and matplotlib for analysis
 - Claude for debugging ODE/PDE solver
 - Linear Stability Analysis
-## To View full report, click "Rayleigh-Taylor-Instability.ipynb"
+## To View full report: 
+Click "Rayleigh-Taylor-Instability.ipynb"
